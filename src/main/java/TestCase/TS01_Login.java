@@ -48,9 +48,6 @@ public void TC_02_Recharge() {
 	su.enterText(rp.mobile_number, "9824422402");
 	su.enterText(rp.amount, "100");
 	}
-	
-
-
 
 
 }
