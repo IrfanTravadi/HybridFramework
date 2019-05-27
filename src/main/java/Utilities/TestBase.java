@@ -14,6 +14,7 @@ public class TestBase {
 	public static LoginPage lp = new LoginPage();
 	public static RechargePage rp = new RechargePage();
 	public static FlightPage fp = new FlightPage ();
+	
 }
 
 
